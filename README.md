@@ -9,11 +9,11 @@ This involves a lot of Excel, mySQL, LaTeX, among other stuff!
 Cheers!
 
 
-#EXCEL
+# EXCEL
 
-#SQL
-##mySQL
+# SQL
+## mySQL
 
-#LaTeX
+# LaTeX
 
-#Data Analytics Projects
+# Data Analytics Projects
